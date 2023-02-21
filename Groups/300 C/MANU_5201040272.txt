@@ -1,0 +1,61 @@
+1. What is a software process model and why is it important in software development?
+ ans. They are convenient tool used by developers to plan every step of their projects.
+ These models help project managers plan their process, estimate costs, identify challenges and communicate
+ with teams and customers.
+
+2.
+Compare and contrast the Waterfall and Agile software process models.
+ans.
+Waterfall Model
+The waterfall model is the classic model or oldest model and is known as mother of all the model.
+It is widely used in government projects and many vital projects in company.
+The waterfall model is also called as 'Linear sequential model' or 'Classic life cycle model'.
+In this model, each phase is executed completely before the beginning of the next phase. Hence the phases do not overlap in waterfall model.
+This model is used for small projects.
+In this model, feedback is taken after each phase to ensure that the project is on the right path.
+Testing part starts only after the development is completed.
+
+Agile Model
+Agile model is a combination of incremental and iterative process models.
+This model focuses on the users satisfaction which can be achieved with quick delivery of the working software product.
+Agile model breaks the product into individual iterations.
+Every iteration includes cross functional teams working on different areas such as planning, requirements, analysis, design, coding, unit testing and acceptance testing.
+At the end of an iteration working product shows to the users.
+
+
+What are the key differences between the two models and
+ans.
+1.Waterfall Model All the requirements are known at the beginning of the project, hence it is easy to manage
+whiles in Agile model It is totally depends on customer interaction,if the customer is not clear with their requirements,the development team can go in the wrong direction.
+
+2.
+ Waterfall breaks down software development into isolated phases that flow into each other
+ while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+
+what are the benefits and drawbacks of each?
+
+Waterfall Model:
+Benefits:
+1.In this model, each phase is executed completely before the beginning of the next phase. Hence the phases do not overlap in waterfall model.
+2.This model is used for small projects.
+3. Feedback is taken after each phase to ensure that the project is on the right path.
+4. Testing part starts only after the development is completed.
+
+Drawback:
+1.Waterfall model is not good for complex and object oriented projects.
+2.Changes are not permitted so it is not fit for moderate to high risk changes in project.
+3. It is a poor model for long duration projects.
+4. The problems with Waterfall model are uncovered, until the software testing.
+5. The amount of risk is high.
+
+Agile Model:
+Benefits;
+1.Customers are satisfied because of quick and continuous delivery of useful software.
+2.Regular delivery of working software.
+3.Face to face interaction between the customers, developers and testers and it is best form of communication.
+4.Even the late changes in the requirement can be incorporated in the software.
+
+Drawbacks:
+1.It is totally depends on customer interaction that is if the customer is not clear with their requirements, the development team can go in the wrong direction.
+2. Documentation is less, so the transfer of technology to the new team members is challenging.
